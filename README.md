@@ -22,7 +22,7 @@ Wir werden in diesem Projekt mit Augmented Reality arbeiten und versuchen es so 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |  muss | Funktional | Als ein User, möchte ich verschiedene Steine aussuchen |
-| 2  | mussn | Funktional | Als ein User, möchte ich den ausgewählten Stein auf einer Oberfläche auf meinem Display platzieren. |
+| 2  | muss | Funktional | Als ein User, möchte ich den ausgewählten Stein auf einer Oberfläche auf meinem Display platzieren. |
 |   |                 |      |                                    |
 | ...  |                 |      |                                    |
 | ...  |                 |      |                                    |
