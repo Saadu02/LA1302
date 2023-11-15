@@ -1,12 +1,11 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
+Sathana Suganthasri, Nicola Karrer, Carina Sutter
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+| 15.11.2023 | 0.0.1 | Planung |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -14,15 +13,22 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+User kann vom Handy-Display etwas mit Lego bauen.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Wir werden in diesem Projekt mit Augmented Reality arbeiten und versuchen es so zu bearbeiten damit der User mit Legosteinen etwas bauen kann. Dadurch betreten wir eine komplett neue Welt des Programmierens und können viel lernen, weil wir auch mit Android Studio arbeiten.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
+| 1    |  Ich muss verschiedene Steine auswählen | Funktional | Als ein User, möchte ich verschiedene Steine aussuchen |
+| 2  | Ich muss sie auf einer Oberfläche platzieren | Funktional | Als ein User, möchte ich den ausgewählten Stein auf einer Oberfläche auf meinem Display platzieren. |
+|   |                 |      |                                    |
+| ...  |                 |      |                                    |
+| ...  |                 |      |                                    |
+| ...  |                 |      |                                    |
+| ...  |                 |      |                                    |
+| ...  |                 |      |                                    |
 | ...  |                 |      |                                    |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
