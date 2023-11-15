@@ -21,8 +21,10 @@ Wir werden in diesem Projekt mit Augmented Reality arbeiten und versuchen es so 
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |  muss | Funktional | Als ein User, möchte ich verschiedene Steine aussuchen |
-| 2  | muss | Funktional | Als ein User, möchte ich den ausgewählten Stein auf einer Oberfläche auf meinem Display platzieren. |
+| 1    |  muss | Funktional | Als ein User möchte ich, dass ich verschiedene Auswahl von steine habe, damit ich verschiedene Steine aussuchen kann. |
+| 2  | muss | Funktional | Als ein User möchte, dass ich die Steine platzieren kann, damit ich andere Steine aufbauen kann. |
+| 3  |muss | Randbedingung | Als User möchte ich, dass der Code im Android Studio geschrieben wird, damit ich es auf dem Handy spielen kann.|
+| 4  | muss | Qualität| Als User möchte ich, dass die Steine 3D sind, damit es besser aussieht.                             |
 |   |                 |      |                                    |
 | ...  |                 |      |                                    |
 | ...  |                 |      |                                    |
