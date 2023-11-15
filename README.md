@@ -19,19 +19,18 @@ Wir werden in diesem Projekt mit Augmented Reality arbeiten und versuchen es so 
 
 ### 1.2 User Stories
 
-| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
-| ---- | --------------- | ---- | ---------------------------------- |
-| 1    |  muss | Funktional | Als ein User möchte ich, dass ich verschiedene Auswahl von steine habe, damit ich verschiedene Steine aussuchen kann. |
-| 2  | muss | Funktional | Als ein User möchte, dass ich die Steine platzieren kann, damit ich andere Steine aufbauen kann. |
-| 3  |muss | Randbedingung | Als User möchte ich, dass der Code im Android Studio geschrieben wird, damit ich es auf dem Handy spielen kann.|
-| 4  | muss | Qualität| Als User möchte ich, dass die Steine 3D sind, damit es besser aussieht.                             |
-|   |                 |      |                                    |
-| ...  |                 |      |                                    |
-| ...  |                 |      |                                    |
-| ...  |                 |      |                                    |
-| ...  |                 |      |                                    |
-| ...  |                 |      |                                    |
-| ...  |                 |      |                                    |
+| US-№ | Verbindlichkeit | Typ        | Beschreibung                       |
+| ---- | --------------- | ------------- | ---------------------------------- |
+| 1    |  muss           | Funktional    | Als ein User möchte ich, dass ich verschiedene Auswahl von steine habe, damit ich verschiedene Steine aussuchen kann. |
+| 2    | muss            | Funktional    | Als ein User möchte, dass ich die Steine platzieren kann, damit ich andere Steine aufbauen kann. |
+| 3    | muss            | Randbedingung | Als User möchte ich, dass der Code im Android Studio geschrieben wird, damit ich es auf dem Handy benutzen kann. |
+| 4    | muss            | Qualität      | Als User möchte ich, dass die Steine 3D sind, damit es besser aussieht. |
+| 5    | muss            | Funktional | Als User möchte ich, dass die Auswahl von den Steinen auf der Seite sind, damit ich mehr Platz habe um sie zu platzieren. |
+| 6    | muss            | Funktional | Als User möchte ich, dass ich die einzelnen Steine löschen kann. |
+| 7    | muss            | Funktional | Als User möchte ich, dass es einen Neustart Knopf gibt, damit ich das Speil neu starten kann. |
+| 8    | muss            | Funktional | Als User möchte ich, dass der Hintergrund nicht schwarz ist, sondern dass ich die Kamera verwenden kann, um ein spannendes Aussehen zuhaben. |
+| 9    | kann            | Qualität   | Als User möchte ich, dass ich die Farbe der Steine ändern kann. |
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -52,17 +51,17 @@ Wir werden in diesem Projekt mit Augmented Reality arbeiten und versuchen es so 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 3.A  | 15.11. | Nicola | Installation und Konfiguration von Andoir Studio | 90min |
-| 3.B  | 15.11. | Sathana | Installation und Konfiguration von Andoir Studio | 90min |
-| 3.C  | 15.11. | Carina | Installation und Konfiguration von Andoir Studio | 90min |
-| 1.B  | xx.xx | xx | Implementation von den Steinen | xxmin |
-| 1.A  | xx.xx | xx | Menuauswahl von verschiedenen Steinen | xxmin |
-| 2.A  | xx.xx | xx | Bewegung von den Steinen | xxmin |
-| 2.B  | xx.xx | xx | Interaktion mit Benutzer | xxmin |
-| 4.1  | xx.xx | xx | Als 3D Objekt platzieren können | xxmin |
-| x.1  | xx.xx | xx | Farbenänderung der Steine | xxmin |
-
-Total: 
+| 1.A  | 22.11. | Carina | Implementation von den Steinen als Objekt | 120min |
+| 1.B  | 29.11. | Carina | Implementation von den Steinen als Code | 120min |
+| 2.A  | 29.11. | Sathana | Bewegung von den Steinen | 180min |
+| 2.B  | 13.12. | Sathana | Interaktion mit Benutzer | 180min |
+| 3.A  | 15.11. | Alle | Installation und Konfiguration von Andoir Studio | 60min |
+| 4.A  | 13.12. | Carina | Als 3D Objekt platzieren können | 90min |
+| 5.A  | 22.11. | Nicola | Menuauswahl von den Steinen | 120min |
+| 6.A  | 29.11. | Nicola | Löschen von den Steinen | 120min |
+| 7.A  | 06.12. | Nicola | Neustart Knopf | 90min |
+| 8.A  | 15.11. | Alle | Konfiguration mit Kamera | 30min |
+| 9.A  | 13.12. | Nicola | Farbenänderung der Steine | 100min |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
