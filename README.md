@@ -52,8 +52,15 @@ Wir werden in diesem Projekt mit Augmented Reality arbeiten und versuchen es so 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 3.A  | 15.11. | Nicola | Installation und Konfiguration von Andoir Studio | 90min |
+| 3.B  | 15.11. | Sathana | Installation und Konfiguration von Andoir Studio | 90min |
+| 3.C  | 15.11. | Carina | Installation und Konfiguration von Andoir Studio | 90min |
+| 1.B  | xx.xx | xx | Implementation von den Steinen | xxmin |
+| 1.A  | xx.xx | xx | Menuauswahl von verschiedenen Steinen | xxmin |
+| 2.A  | xx.xx | xx | Bewegung von den Steinen | xxmin |
+| 2.B  | xx.xx | xx | Interaktion mit Benutzer | xxmin |
+| 4.1  | xx.xx | xx | Als 3D Objekt platzieren können | xxmin |
+| x.1  | xx.xx | xx | Farbenänderung der Steine | xxmin |
 
 Total: 
 
