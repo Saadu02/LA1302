@@ -53,7 +53,7 @@ Wir werden in diesem Projekt mit Augmented Reality arbeiten und versuchen es so 
 
 ## 3 Entscheiden
 
-Android Studio hatte ein Update, worauf wir zuerst wir klar kommen mussten. Wir haben uns deshalb Entschieden, einen Teil unsere Zeit dafür zu verwenden, uns in der Software genauer umzuschauen, den unser Code funktionierte nicht mehr. Zudem hatte uns ein Mitglied unser Team verlassen und hatten somit weniger Hilfe bei der Suche nach den Fehlern. Schlussendlich haben wir es nicht geschafft, dass alles wieder funktioniert und wir haben auch ein paar Funktionen weg gelassen.
+Android Studio hatte ein Update, worauf wir zuerst wieder klar kommen mussten. Wir haben uns deshalb Entschieden, einen Teil unsere Zeit dafür zu verwenden, uns in der Software genauer umzuschauen, den unser Code funktionierte nicht mehr. Zudem hatte uns ein Mitglied unser Team verlassen und hatten somit weniger Hilfe bei der Suche nach den Fehlern. Schlussendlich haben wir es nicht geschafft, dass alles wieder funktioniert und wir haben auch ein paar Funktionen weg gelassen.
 
 ## 4 Realisieren
 
